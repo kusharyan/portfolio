@@ -14,7 +14,7 @@ Fresh Data Analyst eager to analyze complex datasets, creating interactive dashb
 - **Data Analysis:** Excel
 
 ## Education
-**Professional Certification Course in Data Analytics and Generative AI**
+**Professional Certification Course in Data Analytics and Generative AI** 
 IIT, Kanpur | 2024 - present
 
 **Bachelors in Technology in Computer Science**  
